@@ -1,0 +1,63 @@
+.body{
+width:100%;
+min-height:790px;
+}
+.input_boxes{   
+width:100%;
+min-height:790px;
+padding-bottom:5px;
+padding-top:5px;
+padding-left:5px; 
+padding-right:5px; 
+}
+.col-md-7{
+min-height:790px;
+padding:20px;
+border:3px solid black;
+border-radius: 20px
+}
+.col-md-4{
+padding:20px;
+margin-left: 10px;
+background-color:;
+min-height:790px;
+width:41%;
+border:3px solid black;
+border-radius: 20px
+}
+.check_button{
+float:right; 
+padding:10px;
+width:100px;    
+}
+
+.box1 {
+  display: inline-block;
+  width:95%
+}
+
+.box2 {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+
+}
+
+.box3{
+  display: inline-block;
+  width:70%
+}
+.box4{
+display: inline-block;
+}
+.hint-box{
+width:400px;
+}
+.textField{
+min-height:440px;
+width:100%;
+}
+p{
+font-size:20px;
+font-style:oblique;
+}
